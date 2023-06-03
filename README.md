@@ -1,1 +1,1 @@
-# react-testing
+# React Testing WorkShop
